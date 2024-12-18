@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive - Office 365 Fontys\\Semester 6\\Code\\api-gateway\\api-gateway\\api-gateway.csproj": {}
+    "/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/api-gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive - Office 365 Fontys\\Semester 6\\Code\\api-gateway\\api-gateway\\api-gateway.csproj": {
+    "/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/api-gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive - Office 365 Fontys\\Semester 6\\Code\\api-gateway\\api-gateway\\api-gateway.csproj",
+        "projectUniqueName": "/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/api-gateway.csproj",
         "projectName": "api-gateway",
-        "projectPath": "C:\\Users\\asus\\OneDrive - Office 365 Fontys\\Semester 6\\Code\\api-gateway\\api-gateway\\api-gateway.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive - Office 365 Fontys\\Semester 6\\Code\\api-gateway\\api-gateway\\obj\\",
+        "projectPath": "/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/api-gateway.csproj",
+        "packagesPath": "/Users/veniahasna/.nuget/packages/",
+        "outputPath": "/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/veniahasna/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +47,14 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[23.4.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

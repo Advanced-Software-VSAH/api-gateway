@@ -1,0 +1,171 @@
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/ocelot.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.exe
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.deps.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.runtimeconfig.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.pdb
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/FluentValidation.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/IPAddressRange.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DiagnosticAdapter.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Ocelot.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.AssemblyReference.cache
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfoInputs.cache
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfo.cs
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.CoreCompileInputs.cache
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.sourcelink.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.build.api-gateway.props
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api-gateway.props
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api-gateway.props
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/scopedcss/bundle/api-gateway.styles.css
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gate.DADD0DFD.Up2Date
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/refint/api-gateway.dll
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.pdb
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.genruntimeconfig.cache
+C:/Users/asus/OneDrive - Office 365 Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/ref/api-gateway.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.Development.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/ocelot.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.deps.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.runtimeconfig.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.pdb
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/FluentValidation.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/IPAddressRange.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.MiddlewareAnalysis.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DiagnosticAdapter.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Ocelot.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Json.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.AssemblyReference.cache
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfoInputs.cache
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfo.cs
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.CoreCompileInputs.cache
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cs
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cache
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.sourcelink.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.build.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.development.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.build.api-gateway.props
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api-gateway.props
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api-gateway.props
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/scopedcss/bundle/api-gateway.styles.css
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gate.DADD0DFD.Up2Date
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/refint/api-gateway.dll
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.pdb
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.genruntimeconfig.cache
+/Users/veniahasna/Library/CloudStorage/OneDrive-Office365Fontys/Semester 6/Code/api-gateway/api-gateway/obj/Debug/net8.0/ref/api-gateway.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.Development.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/appsettings.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/ocelot.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.deps.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.runtimeconfig.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/api-gateway.pdb
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/FluentValidation.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/IPAddressRange.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.MiddlewareAnalysis.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.DiagnosticAdapter.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Ocelot.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/System.Text.Json.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.AssemblyReference.cache
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfoInputs.cache
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.AssemblyInfo.cs
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.csproj.CoreCompileInputs.cache
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.sourcelink.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.build.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.development.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.build.api-gateway.props
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api-gateway.props
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api-gateway.props
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/staticwebassets.pack.json
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/scopedcss/bundle/api-gateway.styles.css
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gate.DADD0DFD.Up2Date
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/refint/api-gateway.dll
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.pdb
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/api-gateway.genruntimeconfig.cache
+/Volumes/veniahasna/Projects/Semester 6 Project/Code/api-gateway/api-gateway/obj/Debug/net8.0/ref/api-gateway.dll
